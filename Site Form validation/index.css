@@ -1,0 +1,10 @@
+p{
+    margin: 10px auto 1px 10px;
+}
+
+h1{
+    margin: 30px auto 30px 30px;
+}
+#chkbox, #submitBtn{
+    margin: 50px auto 2px 50px;
+}

@@ -1,0 +1,27 @@
+.addTask{
+  margin: 35px;
+}
+.titlu{
+  text-align: center;
+  margin-top:30px;
+}
+.tasks{
+  margin:25px;
+}
+
+.tasks> div {
+  width: 33%;
+  float:left;
+  margin:0 auto;
+  padding: 5px;
+}
+.tasks > div li:hover {
+  background-color: rgba(76, 125, 209, 0.806);
+  cursor: pointer;
+  color: rgba(128, 0, 45, 0.897);
+}
+
+.card-header{
+  text-align: center;
+  
+}
